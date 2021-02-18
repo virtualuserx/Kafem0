@@ -1,0 +1,106 @@
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.Kategoriler.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.Urunler.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Properties.Resources.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Temp.Form1.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.csproj.GenerateResource.cache
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.csproj.CoreCompileInputs.cache
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\bin\Debug\KAFEM0.exe.config
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\bin\Debug\KAFEM0.exe
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\bin\Debug\KAFEM0.pdb
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.exe
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.pdb
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.csprojAssemblyReference.cache
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.Personeller.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.k_ekle.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Form1.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.u_ekle.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.k_edit.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.u_edit.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.giris.Giris.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.p_edit.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.p_ekle.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.g_ekle.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.g_sil.resources
+C:\Users\aksoy\source\repos\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Temp.Form2.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\bin\Debug\KAFEM0.exe.config
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\bin\Debug\KAFEM0.exe
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.csprojAssemblyReference.cache
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.g_ekle.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.g_sil.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.Kategoriler.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.k_edit.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.k_ekle.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.Personeller.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.p_edit.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.p_ekle.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.Urunler.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.u_edit.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.u_ekle.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.giris.Giris.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Properties.Resources.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Temp.Form1.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Temp.Form2.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.csproj.GenerateResource.cache
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.csproj.CoreCompileInputs.cache
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.exe
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.pdb
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\bin\Debug\KAFEM0.pdb
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.masalar.Masalar.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Temp.Form3.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.masalar.Urunler_Adisyon.resources
+C:\Users\aksoy\Desktop\KAFEM0\KAFEM0\obj\Debug\KAFEM0.masalar.pay.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\bin\Debug\KAFEM0.exe.config
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\bin\Debug\KAFEM0.exe
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\bin\Debug\KAFEM0.pdb
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.csprojAssemblyReference.cache
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.g_ekle.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.g_sil.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.Kategoriler.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.k_edit.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.k_ekle.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.Personeller.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.p_edit.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.p_ekle.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.Urunler.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.u_edit.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.u_ekle.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.giris.Giris.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.masalar.Masalar.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.masalar.pay.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.masalar.Urunler_Adisyon.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Properties.Resources.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Temp.Form1.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Temp.Form2.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Temp.Form3.resources
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.csproj.GenerateResource.cache
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.exe
+C:\Users\AHMET\Desktop\Yeni klasör\KAFEM0\KAFEM0\obj\Debug\KAFEM0.pdb
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\bin\Debug\KAFEM0.exe.config
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\bin\Debug\KAFEM0.exe
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\bin\Debug\KAFEM0.pdb
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.csprojAssemblyReference.cache
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.g_ekle.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.g_sil.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.Kategoriler.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.k_edit.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.k_ekle.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.Personeller.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.p_edit.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.p_ekle.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.Urunler.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.u_edit.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.u_ekle.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.giris.Giris.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.masalar.Masalar.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.masalar.pay.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.masalar.Urunler_Adisyon.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Properties.Resources.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Temp.Form1.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Temp.Form2.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.Temp.Form3.resources
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.csproj.GenerateResource.cache
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.csproj.CoreCompileInputs.cache
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.exe
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.pdb
+C:\Users\aksoy\Desktop\KAFEM00220\KAFEM0\KAFEM0\obj\Debug\KAFEM0.edit.takip.resources

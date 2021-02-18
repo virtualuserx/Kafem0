@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3E9A6143-B8D6-4733-8A3B-780341073AF1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KAFEM0</RootNamespace>
+    <AssemblyName>KAFEM0</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dao\AdisyonDao.cs" />
+    <Compile Include="Dao\DatabaseConnectionUtil.cs" />
+    <Compile Include="Dao\GorevDao.cs" />
+    <Compile Include="Dao\Hesap_Odemeleri.cs" />
+    <Compile Include="Dao\KategoriDao.cs" />
+    <Compile Include="Dao\MasalarDao.cs" />
+    <Compile Include="Dao\PersonelDao.cs" />
+    <Compile Include="Dao\Satislar.cs" />
+    <Compile Include="Dao\UrunDao.cs" />
+    <Compile Include="edit\g_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit\g_ekle.Designer.cs">
+      <DependentUpon>g_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit\g_sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit\g_sil.Designer.cs">
+      <DependentUpon>g_sil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit\Kategoriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit\Kategoriler.Designer.cs">
+      <DependentUpon>Kategoriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit\k_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit\k_edit.Designer.cs">
+      <DependentUpon>k_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit\k_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit\k_ekle.Designer.cs">
+      <DependentUpon>k_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit\Personeller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit\Personeller.Designer.cs">
+      <DependentUpon>Personeller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit\p_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit\p_edit.Designer.cs">
+      <DependentUpon>p_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit\p_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit\p_ekle.Designer.cs">
+      <DependentUpon>p_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit\takip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit\takip.Designer.cs">
+      <DependentUpon>takip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit\Urunler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit\Urunler.Designer.cs">
+      <DependentUpon>Urunler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit\u_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit\u_edit.Designer.cs">
+      <DependentUpon>u_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit\u_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit\u_ekle.Designer.cs">
+      <DependentUpon>u_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris\Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris\Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kafe1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>kafe1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="kafe1DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>kafe1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="masalar\Masalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masalar\Masalar.Designer.cs">
+      <DependentUpon>Masalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masalar\pay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masalar\pay.Designer.cs">
+      <DependentUpon>pay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masalar\Urunler_Adisyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masalar\Urunler_Adisyon.Designer.cs">
+      <DependentUpon>Urunler_Adisyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personel-urun takip\p_takip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personel-urun takip\p_takip.Designer.cs">
+      <DependentUpon>p_takip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personel-urun takip\u_takip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personel-urun takip\u_takip.Designer.cs">
+      <DependentUpon>u_takip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Temp\Class1.cs" />
+    <Compile Include="Temp\Class2.cs" />
+    <Compile Include="Temp\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temp\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temp\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temp\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temp\Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temp\Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="edit\g_ekle.resx">
+      <DependentUpon>g_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit\g_sil.resx">
+      <DependentUpon>g_sil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit\Kategoriler.resx">
+      <DependentUpon>Kategoriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit\k_edit.resx">
+      <DependentUpon>k_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit\k_ekle.resx">
+      <DependentUpon>k_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit\Personeller.resx">
+      <DependentUpon>Personeller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit\p_edit.resx">
+      <DependentUpon>p_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit\p_ekle.resx">
+      <DependentUpon>p_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit\takip.resx">
+      <DependentUpon>takip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit\Urunler.resx">
+      <DependentUpon>Urunler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit\u_edit.resx">
+      <DependentUpon>u_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit\u_ekle.resx">
+      <DependentUpon>u_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris\Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masalar\Masalar.resx">
+      <DependentUpon>Masalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masalar\pay.resx">
+      <DependentUpon>pay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masalar\Urunler_Adisyon.resx">
+      <DependentUpon>Urunler_Adisyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Temp\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temp\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temp\Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="kafe1DataSet.xsc">
+      <DependentUpon>kafe1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="kafe1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>kafe1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="kafe1DataSet.xss">
+      <DependentUpon>kafe1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="kafe1DataSet1.xsc">
+      <DependentUpon>kafe1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="kafe1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>kafe1DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="kafe1DataSet1.xss">
+      <DependentUpon>kafe1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\018_128_arrow_exit_logout-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\38-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2196-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11487-firma-ekle-256x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\99173.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar-circle-human-male-3-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_67483631-stock-illustration-tea-icon-set.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kafem_kafe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kafem-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil_and_paper-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %2811%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\synchronize--v1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-ikon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dining-clipart-cafe-chair-8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\samsung-pay-461749.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Card_Payment-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sale_tag-512.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
